@@ -2,7 +2,7 @@
 
 Php ile yapılmış T.C. No kontrol
 
-## Dogru İşlem
+## Dogru İşlem
 
 if(tcNoControl('64155696440')){ // Doğru işlem 
     echo 'TC DOĞRU';
